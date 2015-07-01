@@ -7,7 +7,7 @@ If you want a ready made board, a board with all the parts you need or even a pr
 ##Build instructions
 
 Build instructions are online at Instructables.
-http://www.instructables.com/id/Make-a-Lego-ROV-part-2-the-controller/step7/Your-controller-is-complete/
+http://www.instructables.com/id/Make-a-Lego-ROV-part-2-the-controller/
 
 ##License
 
